@@ -1,0 +1,6 @@
+คำสั่ง git hub เบื้องต้น
+ git config --global user.name "" ทำหน้าที่เซ็ตชื่อ
+จอมพล โสภาพร กัส
+คำสั่ง git hub เบื้องต้น
+กรรณชัย มัดฮาซัน ด้อน
+ git config --global user.email "" ทำหน้าที่เซ็ตอีเมล
